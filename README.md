@@ -19,7 +19,6 @@
 <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 
 ----
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moko902)](https://solved.ac/moko902/)
 
 </div>
