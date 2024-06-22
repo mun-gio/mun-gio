@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&text=Hello+Mungio+Github👋&fontcolor=FFFFFFf&animation=twinkling&stroke=000000)
 
 ----
-## 🔥GitHube Status🔥
+## ✨GitHube Status✨
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mun-gio&theme=calm)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mun-gio&theme=calm&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mun-gio&theme=calm)
@@ -17,5 +17,4 @@
 <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 
 ----
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
 </div>
