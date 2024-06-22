@@ -17,6 +17,5 @@
 <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 
 ----
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mungio)](https://www.acmicpc.net/moko902)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=moko902">
 </div>
