@@ -10,4 +10,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mun-gio&theme=calm)
 ----
 ## 🔥Programming language🔥
+<img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=python&logoColor=white"/>
 </div>
