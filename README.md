@@ -17,5 +17,5 @@
 <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 
 ----
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=moko902">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
 </div>
