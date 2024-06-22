@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&text=Hello+Mungio+Github👋&fontcolor=FFFFFF0&animation=twinkling&stroke=000000)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&text=Hello+Mungio+Github👋&fontcolor=FFFFFFf&animation=twinkling&stroke=000000)
 -----
 ## 🔥GitHube Status🔥
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mun-gio&theme=dark)
