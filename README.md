@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&text=Hello%Mungio%Github👋&textcolor=gradient)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&text=Hello%Mungio%Github👋&fontcolor=gradient)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+Mun+gio+Github👋👋&font=Redressed&size=40)](https://git.io/typing-svg)
 
