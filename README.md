@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mun gio Github!&fontSize=90" />
 
 ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
