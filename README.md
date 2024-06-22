@@ -18,5 +18,5 @@
 
 ----
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=??)](https://solved.ac/moko902)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mungio)](https://solved.ac/moko902)
 </div>
