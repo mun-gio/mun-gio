@@ -9,6 +9,7 @@
 </a>
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=mun-gio&theme=tokyonight&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mun-gio&theme=tokyonight&show_icons=true" width="42%"/>
 </a>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
