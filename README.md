@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&text=👋Hello+Mungio+Github👋&fontcolor=D3D3D3&animation=twinkling&stroke=000000)
 
 ----
-## ✨GitHube Status✨
+## ✨GitHub Status✨
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mun-gio&theme=calm)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mun-gio&theme=calm&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mun-gio&theme=calm)
