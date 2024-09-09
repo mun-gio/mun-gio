@@ -9,7 +9,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mun-gio&theme=calm)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mun-gio&theme=calm)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mun-gio&theme=calm)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mun-gio&show_icons=true&theme=radical)
 ----
 ## 🔥Tech Stack🔥
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
